@@ -13,11 +13,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskroedel&layout=compact&theme=github_dark" /><br>
  <h3>Projects</h3>
  <a>
-  <a href="https://github.com/jonaskroedel/orangedb">
+  <a href="https://github.com/jonaskroedel/orangedb#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskroedel&repo=orangedb&theme=github_dark " />
  </a>
  <a>
-  <a href="https://github.com/jonaskroedel/pypowerrst">
+  <a href="https://github.com/jonaskroedel/pypowerrst#readme">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskroedel&repo=pypowerrst&theme=github_dark " />
   </a>
   
