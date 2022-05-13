@@ -12,6 +12,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonaskroedel&show_icons=true&include_all_commits=true&theme=github_dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskroedel&layout=compact&theme=github_dark" /><br>
  <h3>Projects</h3>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskroedel&repo=orangedb&theme=github_dark " />
+ <a>
+  <a href="https://github.com/jonaskroedel/orangedb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskroedel&repo=orangedb&theme=github_dark " />
+ </a>
+ <a>
+  <a href="https://github.com/jonaskroedel/pypowerrst">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskroedel&repo=pypowerrst&theme=github_dark " />
   </a>
+  
 
