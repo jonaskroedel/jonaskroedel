@@ -30,10 +30,11 @@
 
 <br clear="both">
 
-<p align="left">I'm Jonas!<br><br>
-  - 🌱I am currently learning C Sharp<br>
+<p align="left">Hi, I am Jonas!<br><br>
   
-  - 📍 I am from Austria<br>
+  - 🌱I am currently learning C Sharp <br>
+  
+  - 📍 I am from Austria <br>
   
   - 🔭 I’m currently working on [kroedel.at](https://kroedel.at) <br>
   
@@ -81,8 +82,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonaskroedel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jonaskroedel&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonaskroedel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jonaskroedel&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
