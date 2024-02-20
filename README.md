@@ -30,7 +30,15 @@
 
 <br clear="both">
 
-<p align="left">I'm Jonas!<br><br>-  🌱I am currently learning C Sharp<br>-  📍 I am from Austria<br>-  🔭 I am currently working on [kroedel.at](https://kroedel.at)</p>
+<p align="left">I'm Jonas!<br><br>
+  - 🌱I am currently learning C Sharp<br>
+  
+  - 📍 I am from Austria<br>
+  
+  - 🔭 I’m currently working on [kroedel.at](https://kroedel.at) <br>
+  
+  - 📫 How to reach me **jonas@kroedel.at**
+  </p>
 
 ###
 
