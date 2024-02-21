@@ -36,7 +36,7 @@
   
   - 📍 I am from Austria <br>
   
-  - 🔭 I’m currently working on [kroedel.at](https://kroedel.at) <br>
+  - 🔭 I’m currently working on <a href="https://github.com/jonaskroedel/bananacore" target="_blank">bananaCORE</a> <br>
   
   - 📫 How to reach me **jonas@kroedel.at**
   </p>
