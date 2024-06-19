@@ -8,6 +8,9 @@
   <a href="https://x.com/jonaskroedel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
+  <a href="https://www.codecademy.com/profiles/jonaskroedel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codecademy&logo=codecademy&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codecademy logo" />
+  </a>
 </div>
 
 ###
@@ -32,13 +35,13 @@
 
 <p align="left">Hi, I am Jonas!<br><br>
   
-  - 🌱I am currently learning C Sharp <br>
+  - 🌱I am currently learning Swift <br>
   
   - 📍 I am from Austria <br>
   
-  - 🔭 I’m currently working on <a href="https://github.com/jonaskroedel/bananacore" target="_blank">bananaCORE</a> <br>
+  - 🔭 I’m currently working on <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">nothing</a> <br>
   
-  - 📫 How to reach me **jonas@kroedel.at**
+  - 📫 How to reach me **[LinkedIn](https://linkedin.com/in/jonaskroedel)**
   </p>
 
 ###
