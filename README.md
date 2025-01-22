@@ -2,14 +2,11 @@
   <a href="https://www.linkedin.com/in/jonaskroedel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCa561Fb18hiGTe6B2X4qBbg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://www.instagram.com/jonaskroedel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=DD2A7B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/jonaskroedel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.codecademy.com/profiles/jonaskroedel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codecademy&logo=codecademy&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codecademy logo" />
+  <a href="https://bsky.app/profile/kroedel.at" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
   </a>
 </div>
 
