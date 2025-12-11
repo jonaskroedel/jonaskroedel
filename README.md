@@ -41,7 +41,10 @@
   - 📫 How to reach me **[LinkedIn](https://linkedin.com/in/jonaskroedel)**
   </p>
 
+  <a href="https://steamcommunity.com/id/loweffort31/" target="_blank">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198375600970&show_recent_game_bg=true"/>
+</a>
+
 
 ###
 
