@@ -41,6 +41,8 @@
   - 📫 How to reach me **[LinkedIn](https://linkedin.com/in/jonaskroedel)**
   </p>
 
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198375600970&show_recent_game_bg=true"/>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
