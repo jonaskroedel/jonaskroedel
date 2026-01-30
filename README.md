@@ -36,7 +36,7 @@
   
   - 📍 I am from Austria <br>
   
-  - 🔭 I’m currently working on **[Forager](https://github.com/jonaskroedel/food-scraper) br>
+  - 🔭 I’m currently working on **[Forager](https://github.com/jonaskroedel/food-scraper)** br>
   
   - 📫 How to reach me **[LinkedIn](https://linkedin.com/in/jonaskroedel)**
   </p>
